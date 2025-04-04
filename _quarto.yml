@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Anoop Singh"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "<i class='bi bi-person-circle'></i> About"
+      - href: resume.qmd
+        text: "<i class='bi bi-check2-square'></i> Resume"
+      - href: projects.qmd
+        text: "<i class='bi bi-diagram-3'></i> Projects"
+        
+format:
+  html:
+    theme: flatly
+    css: custom.css
+    toc: true
+    include-in-header: 
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+
+

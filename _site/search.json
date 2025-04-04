@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anoop Singh",
+    "section": "",
+    "text": "MS Business Analytics | UCSD Rady 2025\nBS Business Economics | UCSD 2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Anoop Singh",
+    "section": "",
+    "text": "MS Business Analytics | UCSD Rady 2025\nBS Business Economics | UCSD 2024"
+  },
+  {
+    "objectID": "index.html#work-history",
+    "href": "index.html#work-history",
+    "title": "Anoop Singh",
+    "section": "Work History",
+    "text": "Work History\n\nTeaching Assistant | UCSD, Customer Analytics | 09/2024 - Present\nProject Manager | Gawad Kalinga | 03/2024 - 06/2024\nFinance Intern | Bonduelle | 06/2023 - 08/2023\nBusiness Development Intern | OmniSync Inc | 06/2022 - 08/2022"
+  },
+  {
+    "objectID": "index.html#leadership",
+    "href": "index.html#leadership",
+    "title": "Anoop Singh",
+    "section": "Leadership",
+    "text": "Leadership\n\nVice President | Rady Data Analytics Club | 2024-2025\nVice President | Triton Consulting Group | 2023-2024\nProject Manager | Triton Consulting Group | 2022-2023"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "Download Resume \n\n\nAnoop Singh\n\n\nEducation\n\n\n\nMaster of Science in Business Analytics, Rady School of Management, University of California, San Diego, CA | Expected 12/2025 | GPA: 4.0/4.0\n\n\n\nRelevant Courses: Programming and Statistics for Gen AI, SQL and ETL, Web Mining and Recommender Systems\n\n\n\nBachelor of Science in Business Economics, University of California, San Diego, CA | 06/2024 | GPA: 3.5/4.0\n\n\n\nAwards: Provost Honors (Fall 2020, Winter 2021, Spring 2022, Fall 2022, Winter 2023, Spring 2024)\n\n\n\n\n\nExperience\n\n\n\nProject Manager, Gawad Kalinga, Philippines | 03/2024 - 06/2024\n\n\n\nSpearheaded the implementation of a solar power generator in a Philippine village, overseeing the sourcing of all necessary parts, resulting in an approximately 80% reduction in electricity costs for the community\n\n\nConducted comprehensive market research and competitor analysis to assess the feasibility of villagers creating a proprietary enterprise for the production and sale of solar lanterns, aimed at fostering economic self-sufficiency\n\n\n\nFinance Intern, Bonduelle Fresh Americas, Los Angeles, CA | 06/2023 - 08/2023\n\n\n\nDeveloped a promotion analysis tool in Tableau, analyzing sales and performance data, resulting in $15,000 savings and improved budget management\n\n\nBuilt a multiple linear regression model to predict financial costs, optimizing supply chain decision-making for unused lettuce contracts based on variable factors, saving several thousand dollars per quarter\n\n\n\nBusiness Development Intern, OmniSync Inc, San Diego, CA | 06/2022 - 08/2022\n\n\n\nMaintained a 100% compliance rate for hundreds of early-stage startups through the submission process for SBIR/STTR grants, securing non-dilutive government funding\n\n\nAutomated customer engagement processes using Python, improving client retention by 6 months and optimizing outreach using database insights\n\n\n\n\n\nProjects\n\n\n\nSpotify Recommender System, Web Mining and Recommender Systems, UCSD | 09/2024 - 12/2024\n\n\n\nDeveloped a Spotify recommender system using Python, scikit-learn, and the Spotify API, improving upon the default system with a 70% success rate\n\n\nAnalyzed 3 million user interactions, using data on genre and tempo to curate song suggestions\n\n\nImplemented dynamic algorithms that adapt to user listening patterns, enhancing real-time music recommendations\n\n\n\nSQL Snowflake Project, SQL and ETL, UCSD | 07/2024 - 09/2024\n\n\n\nLeveraged SQL and Snowflake to analyze retail sales data, querying millions of records for insights on sales trends\n\n\nCompared key variables (e.g., category, seasonality) to determine impact on sales, improving data accuracy by 20%\n\n\nDelivered data-driven recommendations that contributed to a 15% projected increase in revenue for given scenarios\n\n\n\nROI Prediction Model, DK Apartments LLC, Los Angeles, CA | 10/2023 - 01/2024\n\n\n\nEngineered 3 ML models (linear regression, decision trees, random forests) to predict ROI on 50,000+ LA properties\n\n\nAchieved a regression model with an R-squared of 0.91, leading to a multimillion-dollar investment decision\n\n\nCreated a Tableau dashboard to visualize key variables like zip code and crime rate for data-driven investment insights\n\n\n\n\n\nSpecialized Skills\n\n\n\nLanguages/Coding: Python, SQL (Advanced), ETL, A/B Testing, Java, JavaScript, R, MATLAB, Hadoop\n\n\nTools: Tableau, CRM, Power BI, SQL Developer, Google Analytics, Jira, Snowflake\n\n\nData Analysis: Azure AI, Excel, Access (Intermediate), SAS, Machine Learning (scikit-learn, TensorFlow, PyTorch)\n\n\n\n\nProfessional Affiliations & Leadership\n\n\n\nClubs: Rady Data Analytics Club, Triton Consulting Group (Vice President 2023-2024, Project Manager 2022-2023)\n\n\nVolunteer: Los Angeles Food Bank, Covina Sikh Temple, Alhambra Sikh Temple, Shepherd’s Pantry West Covina"
+  },
+  {
+    "objectID": "projects/project2/index.html",
+    "href": "projects/project2/index.html",
+    "title": "Analysis of Cars",
+    "section": "",
+    "text": "Let’s investigate the relationship between fuel efficiency (mpg) and engine displacement (disp) from the mtcars dataset. Those variables have a correlation of -0.85.\n\n\nHere is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  },
+  {
+    "objectID": "projects/project2/index.html#sub-header",
+    "href": "projects/project2/index.html#sub-header",
+    "title": "Analysis of Cars",
+    "section": "",
+    "text": "Here is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  },
+  {
+    "objectID": "projects/project1/index.html",
+    "href": "projects/project1/index.html",
+    "title": "Analysis of Cars",
+    "section": "",
+    "text": "Let’s investigate the relationship between fuel efficiency (mpg) and engine displacement (disp) from the mtcars dataset. Those variables have a correlation of -0.85.\n\n\nHere is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  },
+  {
+    "objectID": "projects/project1/index.html#sub-header",
+    "href": "projects/project1/index.html#sub-header",
+    "title": "Analysis of Cars",
+    "section": "",
+    "text": "Here is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  }
+]

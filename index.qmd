@@ -1,0 +1,47 @@
+---
+title: "Anoop Singh"
+image: "files/profile_pic.JPEG"
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:anoop.singh@rady.ucsd.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/in/anoop-singh-/
+    - icon: github
+      href: https://github.com/rsm-ans008
+    - icon: file-text
+      href: "files/Anoop_Singh_Resume.pdf"
+toc: false  # Disable the Table of Contents
+
+---
+<div style="font-size: 13px;">
+
+### Education
+- **MS Business Analytics** <span style="color: gray;">| Rady School of Management | 06/2025</span>  
+- **BS Business Economics** <span style="color: gray;">| UCSD | 06/2024</span>  
+
+<hr>
+
+### Work History
+
+- **Business Analyst** <span style="color: gray;">| Thermo Fisher Scientific | 03/2025 – Present</span>  
+- **Teaching Assistant** <span style="color: gray;">| Customer Analytics | 09/2024 – Present</span>  
+- **Project Manager** <span style="color: gray;">| Gawad Kalinga, Philippines | 03/2024 – 06/2024</span>  
+- **Finance Intern** <span style="color: gray;">| Bonduelle Fresh Americas | 06/2023 – 08/2023</span>  
+- **Business Development Intern** <span style="color: gray;">| OmniSync Inc | 06/2022 – 08/2022</span>  
+
+<hr>
+
+### Leadership
+
+- **Vice President** <span style="color: gray;">| Triton Consulting Group | 2023 – 2024</span>  
+- **Project Manager** <span style="color: gray;">| Triton Consulting Group | 2022 – 2023</span>  
+- **Member** <span style="color: gray;">| Rady Data Analytics Club | 2024 – 2025</span>
+
+<hr>
+
+### Interests & Tools
+- **Languages & Tools:** Python, SQL, R, Tableau, Power BI, PySpark, Hadoop, Databricks, AWS, Snowflake  
+- **Fun Stuff:** Pickleball, Snowboarding, Hiking, Baking, Board Games, Machine Learning, Big Data

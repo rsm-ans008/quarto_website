@@ -1,0 +1,90 @@
+---
+title: "My Resume"
+---
+  <!-- Download Resume Button -->
+  <a href="files/Anoop_Singh_Resume.pdf" download style="text-decoration: none; background-color: #2c3e50; color: white; padding: 10px 20px; border-radius: 5px; white-space: nowrap;">
+    Download Resume
+  </a>
+</p>
+
+<h2>Anoop Singh</h2>
+
+<h3>Education</h3>
+<ul>
+  <li><strong>Master of Science in Business Analytics</strong>, Rady School of Management, University of California, San Diego, CA | <em>06/2025</em> | GPA: 3.9/4.0</li>
+  <ul>
+    <li>Relevant Courses: Unstructured Data, SQL and ETL, Collecting and Analyzing Large Data, Customer Analytics</li>
+  </ul>
+  <li><strong>Bachelor of Science in Business Economics</strong>, University of California, San Diego, CA | <em>06/2024</em> | GPA: 3.5/4.0</li>
+</ul>
+
+<hr>
+
+<h3>Experience</h3>
+<ul>
+  <li><strong>Supply Chain Data Analyst</strong>, Thermo Fisher Scientific, San Diego, CA | <em>03/2025 – Present</em></li>
+  <ul>
+    <li>Developed a machine learning model in Databricks to predict supply chain risk, improving procurement efficiency and enabling proactive decision-making.</li>
+    <li>Built an end-to-end data pipeline integrating 5 years of supply chain data into a centralized data lake, enhancing analytics for waste reduction.</li>
+  </ul>
+
+  <li><strong>Project Manager</strong>, Gawad Kalinga, Philippines | <em>03/2024 – 06/2024</em></li>
+  <ul>
+    <li>Implemented a solar power generator system with digital monitoring, reducing electricity costs by 80% in a rural community.</li>
+    <li>Led market research and feasibility analysis for producing/distributing solar lanterns to promote economic self-sufficiency.</li>
+  </ul>
+
+  <li><strong>Finance Intern</strong>, Bonduelle Fresh Americas, Los Angeles, CA | <em>06/2023 – 08/2023</em></li>
+  <ul>
+    <li>Created a Tableau performance analysis tool to cut promotional inefficiencies, saving $15,000 annually.</li>
+    <li>Built a regression model for cost prediction, enabling better contract management and supply chain decisions.</li>
+  </ul>
+
+  <li><strong>Business Development Intern</strong>, OmniSync Inc, San Diego, CA | <em>06/2022 – 08/2022</em></li>
+  <ul>
+    <li>Supported 100+ startups in securing SBIR/STTR grants through compliance and proposal support.</li>
+    <li>Automated engagement workflows in Python, improving client retention and outreach using database insights.</li>
+  </ul>
+</ul>
+
+<hr>
+
+<h3>Projects</h3>
+<ul>
+  <li><strong>Food Insecurity Dashboard</strong>, Business Intelligence Systems, UCSD | <em>09/2024 – 12/2024</em></li>
+  <ul>
+    <li>Built an interactive Tableau dashboard visualizing food insecurity in 84,000+ U.S. census tracts.</li>
+    <li>Cleaned over 1M records using SQL and Tableau Prep, delivering insights to nonprofits and advocacy groups.</li>
+  </ul>
+
+  <li><strong>Anime Recommender System</strong>, Web Mining & Recommender Systems, UCSD | <em>09/2024 – 12/2024</em></li>
+  <ul>
+    <li>Built a personalized recommender model using 7.8M user-anime interactions; achieved RMSE of 1.56.</li>
+    <li>Performed EDA on 12,000+ titles to improve input quality and model accuracy.</li>
+  </ul>
+</ul>
+
+<hr>
+
+<h3>Professional Affiliations & Leadership</h3>
+<ul>
+  <li><strong>Teaching Assistant</strong>, Customer Analytics, UCSD | <em>09/2024 – Present</em></li>
+  <ul>
+    <li>Led instruction for 300+ students in segmentation techniques and R-based statistical modeling.</li>
+  </ul>
+
+  <li><strong>VP of Internal Development</strong>, Triton Consulting Group, UCSD | <em>06/2023 – 06/2024</em></li>
+  <ul>
+    <li>Developed R-based customer segmentation and marketing strategy that increased boutique revenue by 10%.</li>
+    <li>Automated data governance workflows in Python, cutting cleanup time from hours to minutes.</li>
+  </ul>
+</ul>
+
+<hr>
+
+<h3>Skills & Interests</h3>
+<ul>
+  <li><strong>Programming & Analytics:</strong> Python, SQL, R, PySpark, Spark, ETL, A/B Testing, Tableau, Power BI, Excel</li>
+  <li><strong>Cloud & Big Data Tools:</strong> AWS (EMR, SageMaker), Azure, Hadoop, Snowflake, Databricks, GitHub, CRM</li>
+  <li><strong>Interests:</strong> Pickleball, Snowboarding, Hiking, Weightlifting, Board Games, Baking, Machine Learning, Big Data</li>
+</ul>

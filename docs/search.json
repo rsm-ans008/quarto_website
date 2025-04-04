@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anoop Singh",
+    "section": "",
+    "text": "Education\n\nMS Business Analytics | Rady School of Management | 06/2025\n\nBS Business Economics | UCSD | 06/2024\n\n\n\n\nWork History\n\nBusiness Analyst | Thermo Fisher Scientific | 03/2025 – Present\n\nTeaching Assistant | Customer Analytics | 09/2024 – Present\n\nProject Manager | Gawad Kalinga, Philippines | 03/2024 – 06/2024\n\nFinance Intern | Bonduelle Fresh Americas | 06/2023 – 08/2023\n\nBusiness Development Intern | OmniSync Inc | 06/2022 – 08/2022\n\n\n\n\nLeadership\n\nVice President | Triton Consulting Group | 2023 – 2024\n\nProject Manager | Triton Consulting Group | 2022 – 2023\n\nMember | Rady Data Analytics Club | 2024 – 2025\n\n\n\n\nInterests & Tools\n\nLanguages & Tools: Python, SQL, R, Tableau, Power BI, PySpark, Hadoop, Databricks, AWS, Snowflake\n\nFun Stuff: Pickleball, Snowboarding, Hiking, Baking, Board Games, Machine Learning, Big Data"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Anoop Singh",
+    "section": "",
+    "text": "MS Business Analytics | Rady School of Management | 06/2025\n\nBS Business Economics | UCSD | 06/2024"
+  },
+  {
+    "objectID": "index.html#work-history",
+    "href": "index.html#work-history",
+    "title": "Anoop Singh",
+    "section": "",
+    "text": "Business Analyst | Thermo Fisher Scientific | 03/2025 – Present\n\nTeaching Assistant | Customer Analytics | 09/2024 – Present\n\nProject Manager | Gawad Kalinga, Philippines | 03/2024 – 06/2024\n\nFinance Intern | Bonduelle Fresh Americas | 06/2023 – 08/2023\n\nBusiness Development Intern | OmniSync Inc | 06/2022 – 08/2022"
+  },
+  {
+    "objectID": "index.html#leadership",
+    "href": "index.html#leadership",
+    "title": "Anoop Singh",
+    "section": "",
+    "text": "Vice President | Triton Consulting Group | 2023 – 2024\n\nProject Manager | Triton Consulting Group | 2022 – 2023\n\nMember | Rady Data Analytics Club | 2024 – 2025"
+  },
+  {
+    "objectID": "projects/project2/index.html",
+    "href": "projects/project2/index.html",
+    "title": "Analysis of Cars",
+    "section": "",
+    "text": "Let’s investigate the relationship between fuel efficiency (mpg) and engine displacement (disp) from the mtcars dataset. Those variables have a correlation of -0.85.\n\n\nHere is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  },
+  {
+    "objectID": "projects/project2/index.html#sub-header",
+    "href": "projects/project2/index.html#sub-header",
+    "title": "Analysis of Cars",
+    "section": "",
+    "text": "Here is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resume",
+    "section": "",
+    "text": "Download Resume \n\n\nAnoop Singh\n\n\nEducation\n\n\n\nMaster of Science in Business Analytics, Rady School of Management, University of California, San Diego, CA | 06/2025 | GPA: 3.9/4.0\n\n\n\nRelevant Courses: Unstructured Data, SQL and ETL, Collecting and Analyzing Large Data, Customer Analytics\n\n\n\nBachelor of Science in Business Economics, University of California, San Diego, CA | 06/2024 | GPA: 3.5/4.0\n\n\n\n\nExperience\n\n\n\nSupply Chain Data Analyst, Thermo Fisher Scientific, San Diego, CA | 03/2025 – Present\n\n\n\nDeveloped a machine learning model in Databricks to predict supply chain risk, improving procurement efficiency and enabling proactive decision-making.\n\n\nBuilt an end-to-end data pipeline integrating 5 years of supply chain data into a centralized data lake, enhancing analytics for waste reduction.\n\n\n\nProject Manager, Gawad Kalinga, Philippines | 03/2024 – 06/2024\n\n\n\nImplemented a solar power generator system with digital monitoring, reducing electricity costs by 80% in a rural community.\n\n\nLed market research and feasibility analysis for producing/distributing solar lanterns to promote economic self-sufficiency.\n\n\n\nFinance Intern, Bonduelle Fresh Americas, Los Angeles, CA | 06/2023 – 08/2023\n\n\n\nCreated a Tableau performance analysis tool to cut promotional inefficiencies, saving $15,000 annually.\n\n\nBuilt a regression model for cost prediction, enabling better contract management and supply chain decisions.\n\n\n\nBusiness Development Intern, OmniSync Inc, San Diego, CA | 06/2022 – 08/2022\n\n\n\nSupported 100+ startups in securing SBIR/STTR grants through compliance and proposal support.\n\n\nAutomated engagement workflows in Python, improving client retention and outreach using database insights.\n\n\n\n\n\nProjects\n\n\n\nFood Insecurity Dashboard, Business Intelligence Systems, UCSD | 09/2024 – 12/2024\n\n\n\nBuilt an interactive Tableau dashboard visualizing food insecurity in 84,000+ U.S. census tracts.\n\n\nCleaned over 1M records using SQL and Tableau Prep, delivering insights to nonprofits and advocacy groups.\n\n\n\nAnime Recommender System, Web Mining & Recommender Systems, UCSD | 09/2024 – 12/2024\n\n\n\nBuilt a personalized recommender model using 7.8M user-anime interactions; achieved RMSE of 1.56.\n\n\nPerformed EDA on 12,000+ titles to improve input quality and model accuracy.\n\n\n\n\n\nProfessional Affiliations & Leadership\n\n\n\nTeaching Assistant, Customer Analytics, UCSD | 09/2024 – Present\n\n\n\nLed instruction for 300+ students in segmentation techniques and R-based statistical modeling.\n\n\n\nVP of Internal Development, Triton Consulting Group, UCSD | 06/2023 – 06/2024\n\n\n\nDeveloped R-based customer segmentation and marketing strategy that increased boutique revenue by 10%.\n\n\nAutomated data governance workflows in Python, cutting cleanup time from hours to minutes.\n\n\n\n\n\nSkills & Interests\n\n\n\nProgramming & Analytics: Python, SQL, R, PySpark, Spark, ETL, A/B Testing, Tableau, Power BI, Excel\n\n\nCloud & Big Data Tools: AWS (EMR, SageMaker), Azure, Hadoop, Snowflake, Databricks, GitHub, CRM\n\n\nInterests: Pickleball, Snowboarding, Hiking, Weightlifting, Board Games, Baking, Machine Learning, Big Data"
+  },
+  {
+    "objectID": "projects/project1/index.html",
+    "href": "projects/project1/index.html",
+    "title": "Analysis of Cars",
+    "section": "",
+    "text": "Let’s investigate the relationship between fuel efficiency (mpg) and engine displacement (disp) from the mtcars dataset. Those variables have a correlation of -0.85.\n\n\nHere is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  },
+  {
+    "objectID": "projects/project1/index.html#sub-header",
+    "href": "projects/project1/index.html#sub-header",
+    "title": "Analysis of Cars",
+    "section": "",
+    "text": "Here is a plot:\n\nlibrary(tidyverse)\ndata(mtcars)\nmtcars |&gt;\n  ggplot(aes(mpg, disp)) + \n  geom_point(color=\"dodgerblue4\", size=2)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Analysis of Cars\n\n\n\n\n\n\nAnoop Singh\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of Cars\n\n\n\n\n\n\nAnoop Singh\n\n\nApr 4, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#interests-tools",
+    "href": "index.html#interests-tools",
+    "title": "Anoop Singh",
+    "section": "",
+    "text": "Languages & Tools: Python, SQL, R, Tableau, Power BI, PySpark, Hadoop, Databricks, AWS, Snowflake\n\nFun Stuff: Pickleball, Snowboarding, Hiking, Baking, Board Games, Machine Learning, Big Data"
+  }
+]
