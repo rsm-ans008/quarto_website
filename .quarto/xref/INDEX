@@ -16,5 +16,8 @@
   },
   "projects.qmd": {
     "projects.html": "a74d9e0d"
+  },
+  "projects/project1/Liar_dataset_final.ipynb": {
+    "Liar_dataset_final.html": "04820681"
   }
 }
